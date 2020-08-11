@@ -28,4 +28,4 @@
 ---
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dsouzax&show_icons=true&hide_border=true" />
+<img align="left" alt="Xavier's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dsouzax&show_icons=true&hide_border=false&theme=vue&hide=issues,prs" />
