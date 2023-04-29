@@ -1,9 +1,7 @@
 ## Hey there, I'm Xavier 👋
 
-### I'm a Student, and this is my last year of Engineering!
-- 🔭 I’m currently working on a project called Pothole Finder
+### I'm a graduate Student pursuing Masters in Computer Science
 - 🌱 I’m trying to learn many things at the moment 🤣
-- 🥅 2020 Goals: Get better at programming
 - ⚡  Fun fact: I love to click pictures and play the Piano.
 - 📖 Currently reading: Accessory To War - by  Neil Degrasse Tyson & Avis Lang
 <br />
