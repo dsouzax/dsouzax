@@ -1,6 +1,6 @@
 ## Hey there, I'm Xavier 👋
 
-### I'm a graduate Student pursuing Masters in Computer Science
+### I'm a Msc in Computer Science
 - 🌱 I’m trying to learn many things at the moment 🤣
 - ⚡  Fun fact: I love to click pictures and play the Piano.
 - 📖 Currently reading: Theory and Reality: An Introduction to the Philosophy of Science, Peter Godfrey-Smith
